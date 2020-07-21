@@ -1,2 +1,2 @@
 test info
-Second string of file 1
+Second string of file 1!
