@@ -1,2 +1,3 @@
 test info
 Second string of file 1!
+Change
