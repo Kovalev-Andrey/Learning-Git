@@ -2,3 +2,4 @@ test info
 Second string of file 1!
 Change
 Change 12345
+12345678
